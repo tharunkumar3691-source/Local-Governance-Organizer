@@ -315,6 +315,7 @@ This project is created for educational and portfolio purposes.
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
 ## 📞 Contact & Support
++91 7569886203 & Email Id:tharunkumar3691@gmail.com
 
 For questions about this demo application, refer to the project documentation.
 
